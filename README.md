@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis Johnson</h1>
-<h3 align="center">A Wonderful Software Frontend Developer</h3>
+<h3 align="center">A Wonderful ~~Software~~ Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atj393&label=Profile%20views&color=0e75b6&style=flat" alt="atj393" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter, Python**
 
-- 👯 I’m looking to collaborate on **AI, Graph DB**
+- 👯 I’m looking to collaborate on **AI, TensorFlow, Graph DB**
 
 - 💬 Ask me about **Angular, TypeScript and The Alchemist**
 
