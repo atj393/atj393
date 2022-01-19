@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexis Johnson</h1>
-<h3 align="center">A Wonderful Frontend Developer</h3>
+<h3 align="center">A Wonderful 'Frontend' Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atj393&label=Profile%20views&color=0e75b6&style=flat" alt="atj393" /> </p>
 
@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/atj393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atj393" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/atj393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atj393" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/alexis-toby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alexis-toby" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6690593/alexis-toby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alexis-toby" height="30" width="40" /></a>
 <a href="https://instagram.com/beeingbrucebanner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beeingbrucebanner" height="30" width="40" /></a>
 </p>
 
