@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **some awsome projects**
 
-- 🌱 I’m currently learning **Flutter, Python**
+- 🌱 I’m currently learning **React, Python**
 
-- 👯 I’m looking to collaborate on **AI, TensorFlow, Graph DB**
+- 👯 I’m looking to collaborate on **Data Visualization, AI, TensorFlow, Graph DB**
 
 - 💬 Ask me about **Angular, TypeScript and The Alchemist**
 
