@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **some awsome projects**
 
-- 🌱 I’m currently learning **React, Python**
+- 🌱 I’m currently learning **React, NestJs**
 
 - 👯 I’m looking to collaborate on **Data Visualization, AI, TensorFlow, Graph DB**
 
