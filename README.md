@@ -11,10 +11,10 @@
 - 🔭 I’m currently working on **some awesome projects** that leverage cutting-edge technologies.
 - 📱 My mobile app built with **React Native** is now live and available in app stores, bringing seamless functionality to users on the go.
 - 🌐 Developed browser extensions using **pure JavaScript**, available on both Chrome and Microsoft Edge stores.
-- 👯 I’m looking to collaborate on **Data Visualization, AI, TensorFlow, Graph DB**, pushing the boundaries of what's possible.
+- 👯 I’m looking to collaborate on **Data Visualization, AI, TensorFlow, and Graph DB**, pushing the boundaries of what's possible.
 - 📢 Recently completed **IBM Fullstack Certified Professional**, showcasing a deep understanding of end-to-end development.
 - 💬 Ask me about **Angular, TypeScript, and The Alchemist** – I love sharing insights and learning from others.
-- 📫 How to reach me **tobyalexisj@gmail.com**
+- 📫 How to reach me **alexistoby393@gmail.com**
 - 🏆 Recognized as a **LinkedIn Top Voice in AI, Web Development, and Data Analysis**, contributing to the global tech community.
 - 🌟 Passionate about **Open Source** and actively contribute to projects that make a difference.
 - 🧠 Continuously expanding my knowledge in **Machine Learning** and **Cloud Computing**.
