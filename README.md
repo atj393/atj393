@@ -1,63 +1,146 @@
-<h1 align="center">Hi 👋, I'm Alexis Johnson</h1>
-<h3 align="center">AI Enthusiast & Frontend Developer | Angular/React/Node.js Specialist | Full Stack Developer | IBM Certified Professional</h3>
-<br/>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atj393&label=Profile%20views&color=0e75b6&style=flat" alt="atj393" /> </p>
+# Alexis Johnson
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atj393" alt="atj393" /></a> </p>
+**Frontend Engineer building AI-powered automation tools, enterprise UI systems, and mobile-first workflows.**
 
-<p align="left"> <a href="https://twitter.com/atj393" target="blank"><img src="https://img.shields.io/twitter/follow/atj393?logo=twitter&style=for-the-badge" alt="atj393" /></a> </p>
-
-- 🔭 I’m currently working on **some awesome projects** that leverage cutting-edge technologies.
-- 📱 My mobile app built with **React Native** is now live and available in app stores, bringing seamless functionality to users on the go.
-- 🌐 Developed browser extensions using **pure JavaScript**, available on both Chrome and Microsoft Edge stores.
-- 👯 I’m looking to collaborate on **Data Visualization, AI, TensorFlow, and Graph DB**, pushing the boundaries of what's possible.
-- 📢 Recently completed **IBM Fullstack Certified Professional**, showcasing a deep understanding of end-to-end development.
-- 💬 Ask me about **Angular, TypeScript, and The Alchemist** – I love sharing insights and learning from others.
-- 📫 How to reach me **alexistoby393@gmail.com**
-- 🏆 Recognized as a **LinkedIn Top Voice in AI, Web Development, and Data Analysis**, contributing to the global tech community.
-- 🌟 Passionate about **Open Source** and actively contribute to projects that make a difference.
-- 🧠 Continuously expanding my knowledge in **Machine Learning** and **Cloud Computing**.
-- 🎓 Frequent speaker at tech conferences and webinars, sharing my journey and learnings with a broader audience (past).
-- 🛠️ Skilled in **DevOps** practices, ensuring smooth deployments and robust CI/CD pipelines.
-- 🚀 Developed and deployed full-stack applications enhancing user experience with dynamic interfaces.
-- 📜 Check out my **[Credly profile](https://www.credly.com/users/atj393)** for a comprehensive list of my certifications and achievements.
-
+I build practical AI-powered products and the engineering workflows around them - Angular/React frontends at enterprise scale, an Android AI automation app, and custom Claude Code / Codex agents that help me analyze, refactor, test, and document real software. AI as a multiplier, not a shortcut.
 
 <br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/atj393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atj393" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atj393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atj393" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6690593/alexis-toby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alexis-toby" height="30" width="40" /></a>
-</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-atj393-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atj393)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-atj393-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atj393)
+[![Automatist](https://img.shields.io/badge/Automatist-automatist.cloud-1f6feb?style=for-the-badge&logo=android&logoColor=white)](https://automatist.cloud)
+[![Email](https://img.shields.io/badge/Email-alexistoby393%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexistoby393@gmail.com)
+[![Credly](https://img.shields.io/badge/Credly-certifications-FF6D00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/atj393)
+
+</div>
 
 <br/>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="django" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/> </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="40" height="40"/> </a>
-  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-</p>
+
+---
+
+## Building now
+
+### → [Automatist](https://automatist.cloud) &nbsp;·&nbsp; Native Android AI workflow automation app
+Workflow-first mobile automation built in Kotlin. Cloud AI provider profiles, scheduled execution via WorkManager, workflow import/export, Pro unlock through Google Play Billing, and on-device API-key handling. Local/offline AI is the next direction.
+
+### AI-assisted engineering &nbsp;·&nbsp; Claude Code & Codex, used seriously
+Custom skills, agents, and prompt packs for project-aware test generation, behavior-preserving refactors, migration planning, and large-codebase documentation. Built for real engineering work, not demos.
+
+### Enterprise frontend systems &nbsp;·&nbsp; Angular · React · TypeScript
+Document-management and ECM-style applications: shell/client architectures, iframe-based AI chatbot integrations, inbox and explorer UIs, and complex multi-step workflows designed for maintainability.
+
+### Testing & developer productivity &nbsp;·&nbsp; Playwright · Vitest · CI/CD
+Reusable E2E architectures, page object models, fixtures, and CI reporting (JUnit, GitLab pipelines) that make large frontends safe to ship and fast to iterate on.
+
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atj393&show_icons=true&locale=en&layout=compact" alt="atj393" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atj393&show_icons=true&locale=en" alt="atj393" /></p>
+## Signature positioning
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atj393&" alt="atj393" /></p>
+> I'm not just experimenting with AI tools. I'm building a workflow where AI agents help analyze, generate, test, document, and refactor software - while engineering judgment, product thinking, and review stay firmly in control.
+
+<br/>
+
+---
+
+## Engineering focus
+
+- **AI-powered mobile automation** - Automatist, on-device workflows, offline-model experiments.
+- **Enterprise frontend architecture** - Angular/React shells, iframe integrations, ECM-style document apps.
+- **AI-assisted development** - Claude Code, Codex, prompt packs, reusable engineering agents.
+- **Testing & delivery** - Playwright + Vitest architectures, CI/CD reporting, accessibility-oriented E2E.
+- **Local-first & self-hosted AI** - Ollama, Open WebUI, Docker Compose, Ubuntu Server, model routing.
+
+<br/>
+
+---
+
+## Product lab
+
+Serious experiments, not random hobbies - each is a testbed for a pattern I want to use in real products.
+
+- **Automatist** - mobile AI workflows on Android, with scheduled execution and provider profiles.
+- **Local AI stack** - self-hosted Ollama + Open WebUI on Docker, privacy-aware routing experiments.
+- **Offline AI on Android** - on-device model exploration for fully-local workflow execution.
+- **Claude Code prompt packs** - reusable engineering agents for analysis, tests, refactors, docs.
+- **Browser & automation experiments** - Chrome/Edge extensions, RSS-to-post pipelines, GitHub/GitLab automation, LinkedIn workflow tests.
+- **Self-hosted dev tooling** - Linux + Docker stacks for local-first developer productivity.
+
+<br/>
+
+---
+
+## Tech stack
+
+<table>
+  <tr>
+    <td valign="top"><b>Frontend</b></td>
+    <td>Angular · React · TypeScript · JavaScript · HTML · CSS · Fluent UI</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Backend & APIs</b></td>
+    <td>Node.js · Express · Python · Django · REST · PostgreSQL · MongoDB</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Mobile</b></td>
+    <td>Kotlin · Android · WorkManager · Google Play Billing · Google Drive / OAuth</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>AI & Automation</b></td>
+    <td>Claude Code · Anthropic API · OpenAI / Codex · Ollama · Prompt engineering · AI agents</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Testing & Quality</b></td>
+    <td>Playwright · Vitest · Jest · Page object models · E2E architecture · JUnit reporting</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>DevOps & Tooling</b></td>
+    <td>Docker · Linux · Git · GitHub Actions · GitLab CI · Postman · VS Code · JetBrains</td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## How I work
+
+I ship features together with their tests, documentation, and review notes - not just code changes.
+
+1. **Understand the real problem** before touching code.
+2. **Design before coding** - architecture, data flow, failure modes.
+3. **Use AI agents to accelerate** generation, analysis, and refactors.
+4. **Review and test** every meaningful change; tests are part of the feature.
+5. **Document decisions** so future-me (or future-you) isn't guessing.
+6. **Iterate** - ship small, measure, improve.
+
+<br/>
+
+---
+
+## Currently exploring
+
+On-device / offline LLMs on Android · model routing and provider-profile abstractions · Claude Code plugin and prompt-pack distribution · self-hosted AI gateways · local-first developer tooling.
+
+<br/>
+
+---
+
+<div align="center">
+
+## Connect
+
+Open to conversations about **AI coding agents, frontend architecture, Android automation, testing systems, and developer productivity** - especially if you're building something real.
+
+[![Email](https://img.shields.io/badge/alexistoby393%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alexistoby393@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fatj393-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atj393)
+&nbsp;
+[![Automatist](https://img.shields.io/badge/automatist.cloud-1f6feb?style=flat-square&logo=android&logoColor=white)](https://automatist.cloud)
+&nbsp;
+[![Credly](https://img.shields.io/badge/Credly-certifications-FF6D00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/atj393)
+
+</div>
