@@ -2,145 +2,103 @@
 
 # Alexis Johnson
 
-**Frontend Engineer building AI-powered automation tools, enterprise UI systems, and mobile-first workflows.**
+### Senior Frontend Engineer | Product Engineer
 
-I build practical AI-powered products and the engineering workflows around them - Angular/React frontends at enterprise scale, an Android AI automation app, and custom Claude Code / Codex agents that help me analyze, refactor, test, and document real software. AI as a multiplier, not a shortcut.
+**Berlin, Germany | 10+ years | Angular | React | TypeScript**
 
-<br/>
+I design and ship maintainable, accessible, API-driven software: enterprise Angular systems, React products, browser extensions, and mobile apps. Applied AI is a product capability and a delivery multiplier - not a substitute for architecture, testing, documentation, or engineering judgment.
 
-[![GitHub](https://img.shields.io/badge/GitHub-atj393-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atj393)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-atj393-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atj393)
-[![Automatist](https://img.shields.io/badge/Automatist-automatist.cloud-1f6feb?style=for-the-badge&logo=android&logoColor=white)](https://automatist.cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-atj393-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atj393/)
 [![Email](https://img.shields.io/badge/Email-alexistoby393%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexistoby393@gmail.com)
+[![Automatist](https://img.shields.io/badge/Automatist-automatist.cloud-1f6feb?style=for-the-badge&logo=android&logoColor=white)](https://automatist.cloud/)
 [![Credly](https://img.shields.io/badge/Credly-certifications-FF6D00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/atj393)
+
+Open to senior frontend and product-engineering opportunities where architecture, ownership, and hands-on delivery matter.
 
 </div>
 
-<br/>
+---
+
+## Featured engineering work
+
+The projects below are original products and tools that I author and maintain.
+
+### [Easy Web Navigation](https://github.com/atj393/easy-web-navigation) - keyboard accessibility companion
+
+`TypeScript` `React` `WXT` `Vitest` `GitHub Actions` `Chrome MV3`
+
+Built a read-only browser extension that checks keyboard focus, tab order, landmarks, labels, and visible keyboard paths locally in the browser. The pnpm monorepo separates DOM scanning, WCAG-aware rules, focus overlays, keyboard analysis, and report generation into tested packages; CI type-checks, lints, tests, and builds Chromium and Firefox targets. **[Chrome Web Store](https://chromewebstore.google.com/detail/easy-web-navigation-keybo/jaffeipdpljhnfonacndcpjdkclgjiln)** | **[Latest release](https://github.com/atj393/easy-web-navigation/releases/latest)**
+
+### [Automatist](https://github.com/atj393/automatist-android) - mobile-first AI workflow automation
+
+`Kotlin` `Jetpack Compose` `MVVM` `Room` `WorkManager` `Hilt` `MediaPipe`
+
+Own the Android product from workflow design through provider routing, scheduling, run diagnostics, secure local configuration, import/export, and cloud/on-device model support. Automatist is now free and open source under Apache-2.0, with billing and the former paid tier removed; it is in active development and Google Play closed testing. **[Product site](https://automatist.cloud/)** | **[Source and documentation](https://github.com/atj393/automatist-android)**
+
+### [Re-Phraser](https://github.com/atj393/re-phraser) - in-context writing assistant
+
+`TypeScript` `React` `Vite` `Vitest` `Chrome MV3`
+
+Built an extension that sends selected text to a user-configured AI chat tab, returns the rewrite as a reviewable suggestion, and changes the original only after approval. It has no developer-run backend or API-key field, and its selection, validation, prompt construction, settings, and replacement behavior are covered by unit tests. **[Chrome Web Store](https://chromewebstore.google.com/detail/re-phraser-ai-text-rewrit/ldocllepggdbadbedboopoeebadnpddi)** | **[Releases](https://github.com/atj393/re-phraser/releases)**
+
+### [Prompt Save Reuse](https://github.com/atj393/promt-save-reuse-chatgpt-and-gemini) - open-source browser productivity tool
+
+`JavaScript` `Chrome MV3` `Browser storage` `Open source`
+
+Created and maintain a browser extension for saving and reusing prompts across popular AI chat products. Public releases, a live store listing, and contributions from other developers provide practical evidence of open-source stewardship rather than a one-off demo. **[Chrome Web Store](https://chromewebstore.google.com/detail/prompt-save-reuse-chatgpt/fldaklkfolpnnlgoejcgcgjmklmheaim)** | **[Releases](https://github.com/atj393/promt-save-reuse-chatgpt-and-gemini/releases)**
+
+### Psalms Way - shipped mobile and browser products
+
+`React Native` `TypeScript` `i18n` `Notifications` `Offline content` `Chrome MV3`
+
+Build and maintain a React Native Android app with offline reading, broad localization, search, personal notes, reminders, and reading-progress features. A companion browser extension provides an offline, focused Psalms reader and has its own public release history. **[Google Play](https://play.google.com/store/apps/details?id=com.psalmswayapp)** | **[Mobile source](https://github.com/atj393/psalms-way-app)** | **[Chrome Web Store](https://chromewebstore.google.com/detail/psalms-way-biblical-begin/aplafmlmecdjlmcgbibmlbjnilcomcnl)** | **[Extension source](https://github.com/atj393/psalms-way-browser-extension)**
+
+### [Local Browser Automation Bridge](https://github.com/atj393/local-browser-automation-bridge) - documented full-stack prototype
+
+`TypeScript` `React` `Express` `SQLite` `WebSockets` `Zod` `Chrome MV3`
+
+Built a typed monorepo that connects two browser pages through a React dashboard, local API, durable queue, scheduler, WebSocket gateway, shared contracts, and one extension. Bundled local test pages and explicit safety controls make the end-to-end flow reviewable without touching live services. This is intentionally documented as a proof of concept, not a production automation service.
 
 ---
 
-## Building now
+## Senior frontend engineering
 
-### → [Automatist](https://automatist.cloud) &nbsp;·&nbsp; Native Android AI workflow automation app
-Workflow-first mobile automation built in Kotlin. Cloud AI provider profiles, scheduled execution via WorkManager, workflow import/export, Pro unlock through Google Play Billing, and on-device API-key handling. Local/offline AI is the next direction.
+Since 2015, I have delivered web software in product and enterprise environments, including document-centric business workflows, industrial applications, reusable UI systems, and independently shipped products.
 
-### AI-assisted engineering &nbsp;·&nbsp; Claude Code & Codex, used seriously
-Custom skills, agents, and prompt packs for project-aware test generation, behavior-preserving refactors, migration planning, and large-codebase documentation. Built for real engineering work, not demos.
-
-### Enterprise frontend systems &nbsp;·&nbsp; Angular · React · TypeScript
-Document-management and ECM-style applications: shell/client architectures, iframe-based AI chatbot integrations, inbox and explorer UIs, and complex multi-step workflows designed for maintainability.
-
-### Testing & developer productivity &nbsp;·&nbsp; Playwright · Vitest · CI/CD
-Reusable E2E architectures, page object models, fixtures, and CI reporting (JUnit, GitLab pipelines) that make large frontends safe to ship and fast to iterate on.
-
-<br/>
+- **Architecture and maintainability** - modular Angular and React applications, reusable component systems, feature-oriented design, RxJS/NgRx state, refactoring, and long-lived codebases.
+- **Quality and delivery** - unit and end-to-end testing with Jest, Jasmine, Vitest, Playwright, and Cypress; CI workflows, code review, release preparation, and documentation as part of delivery.
+- **Accessible product engineering** - responsive and cross-browser UI work, WCAG-aware implementation, keyboard/focus testing, and honest documentation of product limitations.
+- **Cross-functional ownership** - close collaboration with backend, QA, product, and business stakeholders in Agile teams, from problem framing and API integration through release and iteration.
 
 ---
 
-## Signature positioning
+## Open source and contributions
 
-> I'm not just experimenting with AI tools. I'm building a workflow where AI agents help analyze, generate, test, document, and refactor software - while engineering judgment, product thinking, and review stay firmly in control.
-
-<br/>
-
----
-
-## Engineering focus
-
-- **AI-powered mobile automation** - Automatist, on-device workflows, offline-model experiments.
-- **Enterprise frontend architecture** - Angular/React shells, iframe integrations, ECM-style document apps.
-- **AI-assisted development** - Claude Code, Codex, prompt packs, reusable engineering agents.
-- **Testing & delivery** - Playwright + Vitest architectures, CI/CD reporting, accessibility-oriented E2E.
-- **Local-first & self-hosted AI** - Ollama, Open WebUI, Docker Compose, Ubuntu Server, model routing.
-
-<br/>
+- **Authored and open-sourced:** [Automatist](https://github.com/atj393/automatist-android), [Easy Web Navigation](https://github.com/atj393/easy-web-navigation), [Re-Phraser](https://github.com/atj393/re-phraser), [Prompt Save Reuse](https://github.com/atj393/promt-save-reuse-chatgpt-and-gemini), and [Local Browser Automation Bridge](https://github.com/atj393/local-browser-automation-bridge).
+- **Engineering tooling:** author of a reusable [Claude Code cleanup plugin](https://github.com/atj393/claude-plugin-code-cleanup) and its [plugin marketplace](https://github.com/atj393/claude-plugins), designed around scoped analysis and reviewable changes.
+- **External contributions:** merged Octasol improvements for [repeat-visit caching](https://github.com/Octasol/octasol/pull/21) and [removing sensitive production logging](https://github.com/Octasol/octasol/pull/5). These are upstream contributions, not projects I own.
 
 ---
 
-## Product lab
+## Focused stack
 
-Serious experiments, not random hobbies - each is a testbed for a pattern I want to use in real products.
-
-- **Automatist** - mobile AI workflows on Android, with scheduled execution and provider profiles.
-- **Local AI stack** - self-hosted Ollama + Open WebUI on Docker, privacy-aware routing experiments.
-- **Offline AI on Android** - on-device model exploration for fully-local workflow execution.
-- **Claude Code prompt packs** - reusable engineering agents for analysis, tests, refactors, docs.
-- **Browser & automation experiments** - Chrome/Edge extensions, RSS-to-post pipelines, GitHub/GitLab automation, LinkedIn workflow tests.
-- **Self-hosted dev tooling** - Linux + Docker stacks for local-first developer productivity.
-
-<br/>
-
----
-
-## Tech stack
-
-<table>
-  <tr>
-    <td valign="top"><b>Frontend</b></td>
-    <td>Angular · React · TypeScript · JavaScript · HTML · CSS · Fluent UI</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Backend & APIs</b></td>
-    <td>Node.js · Express · Python · Django · REST · PostgreSQL · MongoDB</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Mobile</b></td>
-    <td>Kotlin · Android · WorkManager · Google Play Billing · Google Drive / OAuth</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>AI & Automation</b></td>
-    <td>Claude Code · Anthropic API · OpenAI / Codex · Ollama · Prompt engineering · AI agents</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Testing & Quality</b></td>
-    <td>Playwright · Vitest · Jest · Page object models · E2E architecture · JUnit reporting</td>
-  </tr>
-  <tr>
-    <td valign="top"><b>DevOps & Tooling</b></td>
-    <td>Docker · Linux · Git · GitHub Actions · GitLab CI · Postman · VS Code · JetBrains</td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-## How I work
-
-I ship features together with their tests, documentation, and review notes - not just code changes.
-
-1. **Understand the real problem** before touching code.
-2. **Design before coding** - architecture, data flow, failure modes.
-3. **Use AI agents to accelerate** generation, analysis, and refactors.
-4. **Review and test** every meaningful change; tests are part of the feature.
-5. **Document decisions** so future-me (or future-you) isn't guessing.
-6. **Iterate** - ship small, measure, improve.
-
-<br/>
-
----
-
-## Currently exploring
-
-On-device / offline LLMs on Android · model routing and provider-profile abstractions · Claude Code plugin and prompt-pack distribution · self-hosted AI gateways · local-first developer tooling.
-
-<br/>
+- **Frontend:** Angular, React, TypeScript, JavaScript, HTML, CSS/SCSS, RxJS, NgRx, responsive UI.
+- **Testing and quality:** Playwright, Cypress, Vitest, Jest, Jasmine, accessibility testing, GitHub Actions, code review.
+- **Product platforms:** browser extensions (Chrome/Edge, Manifest V3), React Native, Android, Kotlin, Jetpack Compose.
+- **Backend and data:** Node.js, Express, REST APIs, WebSockets, PostgreSQL, MongoDB, SQLite.
+- **Applied AI:** cloud-provider APIs, on-device/offline inference, provider abstraction, human-in-the-loop product flows, AI-assisted analysis and refactoring.
+- **Delivery:** Git, CI/CD, Jira, Agile/Scrum, technical documentation, cross-functional collaboration.
 
 ---
 
 <div align="center">
 
-## Connect
+## Let's build dependable products
 
-Open to conversations about **AI coding agents, frontend architecture, Android automation, testing systems, and developer productivity** - especially if you're building something real.
+I am open to senior frontend and product-engineering roles in Berlin, Germany, or remote-friendly teams.
 
 [![Email](https://img.shields.io/badge/alexistoby393%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alexistoby393@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fatj393-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atj393)
-&nbsp;
-[![Automatist](https://img.shields.io/badge/automatist.cloud-1f6feb?style=flat-square&logo=android&logoColor=white)](https://automatist.cloud)
-&nbsp;
-[![Credly](https://img.shields.io/badge/Credly-certifications-FF6D00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/atj393)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com%2Fin%2Fatj393-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atj393/)
+[![GitHub](https://img.shields.io/badge/github.com%2Fatj393-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atj393)
 
 </div>
