@@ -118,22 +118,11 @@ Publishing the code is only the beginning. I like leaving behind the pieces that
 
 ---
 
-## A few markers along the way
+## Built. Shipped. Shared.
 
-<table>
-  <tr>
-    <td width="50%" align="center"><strong>10+ years</strong><br><sub>shaping and refining software</sub></td>
-    <td width="50%" align="center"><strong>4 Chrome extensions</strong><br><sub>published in the Web Store</sub></td>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><strong><a href="https://play.google.com/store/apps/details?id=com.psalmswayapp">Google Play</a></strong><br><sub>a shipped Android product</sub></td>
-    <td width="50%" align="center"><strong><a href="https://www.linkedin.com/in/atj393/">5× LinkedIn Top Voice</a></strong><br><sub>community recognition</sub></td>
-  </tr>
-  <tr>
-    <td width="50%" align="center"><strong><a href="https://www.credly.com/users/atj393">Meta · Google · IBM</a></strong><br><sub>certifications and learning paths</sub></td>
-    <td width="50%" align="center"><strong><a href="https://github.com/atj393">Open source</a></strong><br><sub>original projects with outside contributors</sub></td>
-  </tr>
-</table>
+Four Chrome extensions. [An Android app on Google Play](https://play.google.com/store/apps/details?id=com.psalmswayapp). Open-source projects built for reuse, including one shaped by outside contributors. Upstream changes merged into tools I use.
+
+Beyond the repository: [5× LinkedIn Top Voice recognition](https://www.linkedin.com/in/atj393/) and [verified Meta, Google, and IBM credentials](https://www.credly.com/users/atj393). Useful context—but the software above remains the real introduction.
 
 ---
 
