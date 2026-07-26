@@ -20,21 +20,23 @@
   <img alt="More than ten years building. Three AI-powered products. Four Chrome extensions live. One Android app on Google Play. Five-time LinkedIn Top Voice." src="https://raw.githubusercontent.com/atj393/atj393/main/assets/stats-light.svg" width="100%">
 </picture>
 
-I'm Alexis. For more than a decade I've built the layer people actually use — Angular and React by trade — and I kept following the work past the browser, into the APIs, queues, and data behind it. The interface is still where I'm deepest. Full-stack is the direction I'm traveling, and AI is what I'm building with while I get there.
+I'm Alexis. For more than a decade I've built the layer people actually use — Angular and React by trade — and I kept following the work past the browser, into the APIs, queues, and data behind it. The interface is where I'm deepest, full-stack is the direction I'm growing, and AI is the tool I reach for most days.
 
-Almost everything below started the same way. Something got in my way on an ordinary Tuesday. I went looking for the tool that fixed it. The tool didn't exist, or it existed and wanted my API key, or it existed and sent my text to somebody's server. So I built my own, used it for a month, and then spent considerably longer making it good enough to hand to a stranger.
+I like being the newest person in the room on something. It's the fastest way I know to get good at it, and it keeps the work genuinely fun.
 
-> **That last part is the job.** Anyone can build the thing that works on their own machine.
+Almost everything below started the same way: something got in my way on an ordinary Tuesday, I went looking for the tool that would fix it, and the gap I found looked like a good excuse to build. So I did — used it for a month, then spent considerably longer making it good enough to hand to a stranger.
+
+> **That last part is the craft.** Getting something from *works for me* to *works for you* is the most satisfying stretch of any project.
 
 <sub><b>01</b></sub>
 
 ## Working with AI
 
-The interesting problems in AI products are rarely the model. They're everything around it: what happens when it's wrong, who approves the output before it lands, what still works with no network, and whose data leaves the device.
+The most interesting problems in AI products sit around the model rather than inside it: how a person reviews the output, what still works with no network, where the data lives, and how someone stays in control of it. That's interface and architecture work — which is exactly why I find it so absorbing.
 
-> Those are interface and architecture questions. Which is why this became the center of my work rather than a side interest.
+> **AI made the work more interesting, not just faster.** Deciding what *should* happen is still the craft, and that's the part I enjoy most.
 
-Here is how I actually assemble one — the same four layers whether it ends up in a phone, a browser tab, or a background job:
+Here is how I assemble one — the same four layers whether it ends up in a phone, a browser tab, or a background job:
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atj393/atj393/main/assets/stack-narrow-dark.svg">
@@ -43,7 +45,7 @@ Here is how I actually assemble one — the same four layers whether it ends up 
   <img alt="Four layers: Interface (React, Angular, Jetpack Compose, Chrome MV3); Orchestration (scheduling, retries, run diagnostics, approval gates); Inference (cloud provider API, on-device via MediaPipe, compatible offline); Data (stays on the device unless you say otherwise)." src="https://raw.githubusercontent.com/atj393/atj393/main/assets/stack-light.svg" width="100%">
 </picture>
 
-<sub>Most of the real engineering lives in orchestration and data. Inference is the layer everyone talks about.</sub>
+<sub>Four layers, one feature — and I genuinely enjoy the work at every one of them.</sub>
 
 Four things I've actually built with it:
 
@@ -51,7 +53,7 @@ Four things I've actually built with it:
 
 **Provider APIs, without holding your keys.** Re-Phraser routes a selection to the AI chat tab you already have open instead of to a backend I run. There's no API-key field because there's no server of mine to put a key in.
 
-**Human-in-the-loop by default.** Nothing an AI produces in my tools replaces your text until you approve it. An assistant that edits without asking isn't a feature, it's a liability.
+**Human-in-the-loop by default.** Nothing an AI produces in my tools replaces your text until you approve it. Trust is the feature, and it's earned by asking first.
 
 **AI-assisted engineering, made reusable.** My own code-cleanup workflow became a [Claude Code plugin](https://github.com/atj393/claude-plugin-code-cleanup) and the [marketplace](https://github.com/atj393/claude-plugins) that distributes it — a workflow is easier to trust once someone else can run it.
 
@@ -61,7 +63,7 @@ Four things I've actually built with it:
 
 Two more threads, and they sit closer to the work above than they look.
 
-**Accessibility you can see.** Most accessibility tooling hands you a report. I'm more interested in tools that draw the problem directly onto the page — focus order, landmarks, the tab path — because a developer who *sees* the trap fixes it in a way a CI warning never achieves.
+**Accessibility you can see.** Reports tell you what's wrong; I wanted something that shows you. Drawing focus order, landmarks, and the tab path straight onto the page turns an abstract rule into something a developer can spot and fix in seconds — which is a much easier thing to care about.
 
 **Local-first software.** Automation that fits in a pocket, data that stays on the device, and products that still open when the network doesn't.
 
@@ -132,17 +134,17 @@ Two more threads, and they sit closer to the work above than they look.
 
 ## Habits that stuck
 
-**I write down what a thing cannot do.** The browser bridge carries "proof of concept" in its own README, because that is what it is. Overselling a tool is the fastest way to lose the person using it.
+**I write down what a thing can and cannot do.** The browser bridge carries "proof of concept" in its own README, because that is what it is. Being straight about the edges is what earns a tool its second use.
 
-**Publishing the code is the beginning, not the end.** What makes a repository useful to a second person is the unglamorous half — architecture notes, tests, release assets, security guidance, stated limits. Five of the projects above are MIT or Apache-2.0, which only counts for something if someone else can genuinely pick them up.
+**Publishing the code is the beginning, not the end.** What makes a repository useful to a second person is the unglamorous half — architecture notes, tests, release assets, security guidance, stated limits. Five of the projects above are MIT or Apache-2.0, and I'd be delighted if someone picked one up and took it somewhere I hadn't thought of.
 
-**Other people's pull requests made it better.** Prompt Save Reuse has been shaped by contributors I have never met. Reviewing someone else's work into a project you started is a different skill from writing it, and one I would rather practice in the open than claim.
+**Other people's pull requests made it better.** Prompt Save Reuse has been shaped by contributors I've never met. Merging someone else's work into a project you started is a different skill from writing it, and one I enjoy practicing in the open.
 
-**I send fixes back upstream.** Including [repeat-visit caching](https://github.com/Octasol/octasol/pull/21) and [safer production logging](https://github.com/Octasol/octasol/pull/5) for Octasol. Using open source without contributing to it always felt like a bill left unpaid.
+**I send fixes back upstream.** Including [repeat-visit caching](https://github.com/Octasol/octasol/pull/21) and [safer production logging](https://github.com/Octasol/octasol/pull/5) for Octasol. Open source gave me most of what I know, so sending improvements back is a part of the week I look forward to.
 
-**I follow the problem past my comfort zone.** The browser bridge needed an Express API, a SQLite queue, and a WebSocket layer, so I learned them and built them. Backend isn't where I started, but it's increasingly where the interesting constraints live — and you can't design an honest interface for a system you don't understand.
+**I like being a beginner on purpose.** The browser bridge needed an Express API, a SQLite queue, and a WebSocket layer, so I learned them and built them. Backend isn't where I started, and that's exactly what makes it fun — understanding the system underneath makes every interface decision above it better.
 
-> **The tools change; the standard doesn't.** AI writes a good deal of code now, mine included. That makes architecture, clear UX, testing, and review *more* load-bearing, not less — someone still has to know whether the thing is right.
+> **AI is the best tool I've added to the bench.** It writes a good deal of my code now, which makes architecture, clear UX, testing, and review matter *more*, not less. Knowing whether the thing is right is the part I enjoy most.
 
 <sub><b>05</b></sub>
 
@@ -169,12 +171,12 @@ Two more threads, and they sit closer to the work above than they look.
 
 [Five-time LinkedIn Top Voice](https://www.linkedin.com/in/atj393/), and [verified credentials from Meta, Google, and IBM](https://www.credly.com/users/atj393).
 
-Useful context. But the software above is the real introduction, and it's the part I'd rather be asked about.
+I learn in public and keep studying deliberately — the certificates are a happy side effect of that habit, and the products above are what came out of it. I'm glad to talk about either.
 
 <sub><b>07</b></sub>
 
 ## Let's compare notes
 
-Good conversations about software tend to start with a real problem rather than a job title. If you care about thoughtful interfaces, accessibility, open source, mobile products, or AI that respects the person using it — say hello.
+The best conversations about software start with a real problem rather than a job title. If you're building something around thoughtful interfaces, accessibility, open source, mobile, or applied AI — or you have a team where I'd get to learn a lot — I'd genuinely love to hear from you.
 
 [GitHub](https://github.com/atj393) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/atj393/) &nbsp;·&nbsp; [automatist.cloud](https://automatist.cloud/) &nbsp;·&nbsp; [Credly](https://www.credly.com/users/atj393) &nbsp;·&nbsp; [alexistoby393@gmail.com](mailto:alexistoby393@gmail.com)
