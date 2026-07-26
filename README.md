@@ -20,17 +20,13 @@
   <img alt="More than ten years building. Three AI-powered products. Four Chrome extensions live. One Android app on Google Play. Five-time LinkedIn Top Voice." src="https://raw.githubusercontent.com/atj393/atj393/main/assets/stats-light.svg" width="100%">
 </picture>
 
-<sub><b>01 &nbsp;—&nbsp; INTRODUCTION</b></sub>
-
-## Who is writing this
-
 I'm Alexis. For more than a decade I've built the layer people actually use — Angular and React by trade — and I kept following the work past the browser, into the APIs, queues, and data behind it. The interface is still where I'm deepest. Full-stack is the direction I'm traveling, and AI is what I'm building with while I get there.
 
 Almost everything below started the same way. Something got in my way on an ordinary Tuesday. I went looking for the tool that fixed it. The tool didn't exist, or it existed and wanted my API key, or it existed and sent my text to somebody's server. So I built my own, used it for a month, and then spent considerably longer making it good enough to hand to a stranger.
 
 > **That last part is the job.** Anyone can build the thing that works on their own machine.
 
-<sub><b>02 &nbsp;—&nbsp; THE CENTER OF THE WORK</b></sub>
+<sub><b>01</b></sub>
 
 ## Working with AI
 
@@ -47,31 +43,31 @@ Here is how I actually assemble one — the same four layers whether it ends up 
   <img alt="Four layers: Interface (React, Angular, Jetpack Compose, Chrome MV3); Orchestration (scheduling, retries, run diagnostics, approval gates); Inference (cloud provider API, on-device via MediaPipe, compatible offline); Data (stays on the device unless you say otherwise)." src="https://raw.githubusercontent.com/atj393/atj393/main/assets/stack-light.svg" width="100%">
 </picture>
 
-<sub>The interesting engineering lives in layers 02 and 04. Layer 03 is the part everyone talks about.</sub>
+<sub>Most of the real engineering lives in orchestration and data. Inference is the layer everyone talks about.</sub>
 
 Four things I've actually built with it:
 
-**On-device and offline inference.** Automatist runs models locally through MediaPipe, so a scheduled task still completes with no connection and no account. Getting that path to real parity — rather than a degraded fallback — was most of the work.
+**On-device and offline inference.** Automatist runs models locally through MediaPipe, so a scheduled task still completes with no connection and no account. That path being a real option rather than a degraded fallback is the entire point of it.
 
 **Provider APIs, without holding your keys.** Re-Phraser routes a selection to the AI chat tab you already have open instead of to a backend I run. There's no API-key field because there's no server of mine to put a key in.
 
 **Human-in-the-loop by default.** Nothing an AI produces in my tools replaces your text until you approve it. An assistant that edits without asking isn't a feature, it's a liability.
 
-**AI-assisted engineering, made reusable.** My own workflow for reviewing AI-written code became a [Claude Code cleanup plugin](https://github.com/atj393/claude-plugin-code-cleanup) and the [marketplace](https://github.com/atj393/claude-plugins) that distributes it.
+**AI-assisted engineering, made reusable.** My own code-cleanup workflow became a [Claude Code plugin](https://github.com/atj393/claude-plugin-code-cleanup) and the [marketplace](https://github.com/atj393/claude-plugins) that distributes it — a workflow is easier to trust once someone else can run it.
 
-<sub><b>03 &nbsp;—&nbsp; CURRENT THREADS</b></sub>
+<sub><b>02</b></sub>
 
-## Where I am right now
+## On the desk
 
-Two other threads share the desk, and they're more related to the above than they look.
+Two more threads, and they sit closer to the work above than they look.
 
 **Accessibility you can see.** Most accessibility tooling hands you a report. I'm more interested in tools that draw the problem directly onto the page — focus order, landmarks, the tab path — because a developer who *sees* the trap fixes it in a way a CI warning never achieves.
 
 **Local-first software.** Automation that fits in a pocket, data that stays on the device, and products that still open when the network doesn't.
 
-<sub><b>04 &nbsp;—&nbsp; SELECTED WORK</b></sub>
+<sub><b>03</b></sub>
 
-## The work
+## Evidence
 
 <table>
   <tr>
@@ -79,7 +75,7 @@ Two other threads share the desk, and they're more related to the above than the
       <sub><b>CURRENT FOCUS &nbsp;·&nbsp; IN CLOSED TESTING</b></sub><br><br>
       <a href="https://github.com/atj393/automatist-android"><img src="https://raw.githubusercontent.com/atj393/automatist-android/main/docs/assets/readme/automatist-logo.png" width="44" height="44" alt=""></a><br>
       <b><a href="https://github.com/atj393/automatist-android">Automatist</a></b> — mobile-first AI workflow automation<br><br>
-      Scheduling, run diagnostics, and a real choice between cloud, on-device, and compatible offline models. Free and open source — no ads, no subscription, nothing held behind a paywall. That constraint is precisely why the offline path had to reach real parity instead of shipping as a fallback.<br><br>
+      Recurring AI tasks, scheduled and diagnosable from a phone, with a real choice between cloud, on-device, and compatible offline models. Free and open source — no ads, no subscription, nothing held behind a paywall.<br><br>
       <sub><code>Kotlin</code> <code>Jetpack Compose</code> <code>WorkManager</code> <code>Room</code> <code>MediaPipe</code></sub><br>
       <sub><a href="https://automatist.cloud/">Website</a> · <a href="https://github.com/atj393/automatist-android">Source &amp; docs</a></sub>
     </td>
@@ -132,15 +128,15 @@ Two other threads share the desk, and they're more related to the above than the
   </tr>
 </table>
 
-<sub><b>05 &nbsp;—&nbsp; PRINCIPLES</b></sub>
+<sub><b>04</b></sub>
 
-## How I actually work
+## Habits that stuck
 
-**I write down what a thing cannot do.** Every project above carries its limits in the README. The browser bridge is labeled a proof of concept because that is what it is. Overselling a tool is the fastest way to lose the person using it, and the second-fastest way to lose their trust permanently.
+**I write down what a thing cannot do.** The browser bridge carries "proof of concept" in its own README, because that is what it is. Overselling a tool is the fastest way to lose the person using it.
 
-**Publishing the code is the beginning, not the end.** What makes a repository useful to a second person is the unglamorous half — architecture notes, tests, release assets, security guidance, honest limits. Five of the projects above ship under MIT or Apache-2.0 for exactly that reason.
+**Publishing the code is the beginning, not the end.** What makes a repository useful to a second person is the unglamorous half — architecture notes, tests, release assets, security guidance, stated limits. Five of the projects above are MIT or Apache-2.0, which only counts for something if someone else can genuinely pick them up.
 
-**Workflows become products too.** When my own engineering process needed a tool, it turned into a reusable [Claude Code cleanup plugin](https://github.com/atj393/claude-plugin-code-cleanup) and the [marketplace](https://github.com/atj393/claude-plugins) that distributes it.
+**Other people's pull requests made it better.** Prompt Save Reuse has been shaped by contributors I have never met. Reviewing someone else's work into a project you started is a different skill from writing it, and one I would rather practice in the open than claim.
 
 **I send fixes back upstream.** Including [repeat-visit caching](https://github.com/Octasol/octasol/pull/21) and [safer production logging](https://github.com/Octasol/octasol/pull/5) for Octasol. Using open source without contributing to it always felt like a bill left unpaid.
 
@@ -148,7 +144,7 @@ Two other threads share the desk, and they're more related to the above than the
 
 > **The tools change; the standard doesn't.** AI writes a good deal of code now, mine included. That makes architecture, clear UX, testing, and review *more* load-bearing, not less — someone still has to know whether the thing is right.
 
-<sub><b>06 &nbsp;—&nbsp; TOOLKIT</b></sub>
+<sub><b>05</b></sub>
 
 ## What I reach for
 
@@ -167,15 +163,15 @@ Two other threads share the desk, and they're more related to the above than the
 <sub><b>THE QUALITY LOOP</b></sub><br>
 `Accessibility` `Vitest` `Jest` `Jasmine` `Playwright` `Cypress` `GitHub Actions`
 
-<sub><b>07 &nbsp;—&nbsp; SIGNALS</b></sub>
+<sub><b>06</b></sub>
 
-## Beyond the repositories
+## Signals
 
 [Five-time LinkedIn Top Voice](https://www.linkedin.com/in/atj393/), and [verified credentials from Meta, Google, and IBM](https://www.credly.com/users/atj393).
 
 Useful context. But the software above is the real introduction, and it's the part I'd rather be asked about.
 
-<sub><b>08 &nbsp;—&nbsp; SAY HELLO</b></sub>
+<sub><b>07</b></sub>
 
 ## Let's compare notes
 
