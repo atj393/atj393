@@ -1,35 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" width="1000" height="400" role="img" aria-labelledby="stackTitle">
-  <title id="stackTitle">How an AI feature gets assembled: interface, orchestration, inference, data — with inference offering cloud, on-device, or offline models and data staying on the device.</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 180" width="1000" height="180" role="img" aria-labelledby="stackTitle">
+  <title id="stackTitle">Four layers I build across: Interface (React, Angular, Compose, Chrome MV3); Orchestration (scheduling, retries, diagnostics, approvals); Inference (cloud provider API, on-device via MediaPipe, compatible offline); Data (stays on the device unless you say otherwise).</title>
 
-  <rect x="14" y="16" width="2" height="368" fill="#F0906A" opacity="0.4"/>
+  <!-- inference column, highlighted: the layer the others are built around -->
+  <rect x="500" y="8" width="250" height="164" fill="#F0906A" opacity="0.07"/>
 
-  <!-- inference band, highlighted: the layer the others are built around -->
-  <rect x="64" y="196" width="912" height="76" fill="#F0906A" opacity="0.07"/>
+  <g fill="#F0906A">
+    <rect x="24" y="16" width="24" height="2"/>
+    <rect x="274" y="16" width="24" height="2"/>
+    <rect x="524" y="16" width="24" height="2"/>
+    <rect x="774" y="16" width="24" height="2"/>
+  </g>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.2" fill="#F0906A">
-    <text x="32" y="46">01</text>
-    <text x="32" y="140">02</text>
-    <text x="32" y="234">03</text>
-    <text x="32" y="328">04</text>
+    <text x="24" y="48">01</text>
+    <text x="274" y="48">02</text>
+    <text x="524" y="48">03</text>
+    <text x="774" y="48">04</text>
   </g>
 
-  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="21" font-weight="600" letter-spacing="-0.3" fill="#E8EDF3">
-    <text x="76" y="50">Interface</text>
-    <text x="76" y="144">Orchestration</text>
-    <text x="76" y="238">Inference</text>
-    <text x="76" y="332">Data</text>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="-0.3" fill="#E8EDF3">
+    <text x="24" y="80">Interface</text>
+    <text x="274" y="80">Orchestration</text>
+    <text x="524" y="80">Inference</text>
+    <text x="774" y="80">Data</text>
   </g>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="0.8" fill="#8B95A4">
-    <text x="76" y="78">React · Angular · Jetpack Compose · Chrome MV3</text>
-    <text x="76" y="172">scheduling · retries · run diagnostics · approval gates</text>
-    <text x="76" y="266">cloud provider API · on-device via MediaPipe · compatible offline</text>
-    <text x="76" y="360">stays on the device unless you say otherwise</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.6" fill="#8B95A4">
+    <text x="24" y="110">React · Angular</text>
+    <text x="24" y="130">Compose · Chrome MV3</text>
+
+    <text x="274" y="110">scheduling · retries</text>
+    <text x="274" y="130">diagnostics · approvals</text>
+
+    <text x="524" y="110">cloud provider API</text>
+    <text x="524" y="130">on-device via MediaPipe</text>
+    <text x="524" y="150">compatible offline</text>
+
+    <text x="774" y="110">stays on the device</text>
+    <text x="774" y="130">unless you say otherwise</text>
   </g>
 
   <g fill="#1F2630">
-    <rect x="76" y="100" width="900" height="1"/>
-    <rect x="76" y="194" width="900" height="1"/>
-    <rect x="76" y="288" width="900" height="1"/>
+    <rect x="250" y="16" width="1" height="150"/>
+    <rect x="500" y="16" width="1" height="150"/>
+    <rect x="750" y="16" width="1" height="150"/>
   </g>
 </svg>
