@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 93 34" width="93" height="34" role="img" aria-label="CREDLY">
+  <style>
+    .edge { fill: none; stroke: #D8DDE3; }
+    .dot  { fill: #B0451B; }
+    .name { fill: #1A1F26; font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 12px; letter-spacing: 1.4px; }
+    @media (prefers-color-scheme: dark) {
+      .edge { stroke: #2A323C; }
+      .dot  { fill: #F0906A; }
+      .name { fill: #C9D2DC; }
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="92" height="33" rx="6" class="edge"/>
+  <circle cx="15" cy="17" r="3.5" class="dot"/>
+  <text x="27" y="21.5" class="name">CREDLY</text>
+</svg>
