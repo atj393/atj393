@@ -20,6 +20,11 @@
   <img alt="More than ten years building. Three AI-powered products. Four Chrome extensions live. One Android app on Google Play. Five-time LinkedIn Top Voice." src="https://raw.githubusercontent.com/atj393/atj393/main/assets/stats-light.svg" width="100%">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atj393/atj393/main/assets/terminal-dark.svg">
+  <img alt="A terminal typing: frontend, and everything behind it; AI in the toolkit every day; happy to be the newest in the room." src="https://raw.githubusercontent.com/atj393/atj393/main/assets/terminal-light.svg" width="520">
+</picture>
+
 I'm Alexis. For more than a decade I've built the layer people actually use, mostly in Angular and React, and I kept following the work past the browser into the APIs, queues, and data behind it. The interface is where I'm deepest, full-stack is the direction I'm growing, and AI is the tool I reach for most days.
 
 I like being the newest person in the room on something. It's the fastest way I know to get good at it, and it keeps the work fun.

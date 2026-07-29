@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 150" width="640" height="150" role="img" aria-labelledby="termTitle">
+  <title id="termTitle">A terminal typing: frontend, and everything behind it; AI in the toolkit every day; happy to be the newest in the room.</title>
+  <style>
+    .t { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 18px; fill: #1A1F26; }
+    .p { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 18px; font-weight: 600; fill: #B0451B; }
+@keyframes wipe0 {
+  0% { transform: translateX(0px); animation-timing-function: steps(34, end); }
+  11.333% { transform: translateX(367.2px); }
+  27.333% { transform: translateX(367.2px); animation-timing-function: steps(34, end); }
+  31.333%, 100% { transform: translateX(0px); }
+}
+@keyframes show0 {
+  0%, 31.333% { opacity: 1; }
+  31.343%, 100% { opacity: 0; }
+}
+.g0 { animation: show0 15s infinite; }
+.c0 { animation: wipe0 15s infinite; }
+@keyframes wipe1 {
+  0%, 33.333% { transform: translateX(0px); animation-timing-function: steps(27, end); }
+  44.667% { transform: translateX(291.6px); }
+  60.667% { transform: translateX(291.6px); animation-timing-function: steps(27, end); }
+  64.667%, 100% { transform: translateX(0px); }
+}
+@keyframes show1 {
+  0%, 33.323% { opacity: 0; }
+  33.333%, 64.667% { opacity: 1; }
+  64.677%, 100% { opacity: 0; }
+}
+.g1 { animation: show1 15s infinite; }
+.c1 { animation: wipe1 15s infinite; }
+@keyframes wipe2 {
+  0%, 66.667% { transform: translateX(0px); animation-timing-function: steps(34, end); }
+  78% { transform: translateX(367.2px); }
+  94% { transform: translateX(367.2px); animation-timing-function: steps(34, end); }
+  98%, 100% { transform: translateX(0px); }
+}
+@keyframes show2 {
+  0%, 66.657% { opacity: 0; }
+  66.667%, 98% { opacity: 1; }
+  98.01%, 100% { opacity: 0; }
+}
+.g2 { animation: show2 15s infinite; }
+.c2 { animation: wipe2 15s infinite; }
+@keyframes curse {
+  0% { transform: translateX(0px); animation-timing-function: steps(34, end); }
+  11.333% { transform: translateX(367.2px); }
+  27.333% { transform: translateX(367.2px); animation-timing-function: steps(34, end); }
+  31.333% { transform: translateX(0px); }
+  33.333% { transform: translateX(0px); animation-timing-function: steps(27, end); }
+  44.667% { transform: translateX(291.6px); }
+  60.667% { transform: translateX(291.6px); animation-timing-function: steps(27, end); }
+  64.667% { transform: translateX(0px); }
+  66.667% { transform: translateX(0px); animation-timing-function: steps(34, end); }
+  78% { transform: translateX(367.2px); }
+  94% { transform: translateX(367.2px); animation-timing-function: steps(34, end); }
+  98% { transform: translateX(0px); }
+  100% { transform: translateX(0px); }
+}
+@keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+.cur { animation: curse 15s infinite, blink 1.06s steps(1, end) infinite; }
+@media (prefers-reduced-motion: reduce) {
+  .c0, .c1, .c2, .cur { animation: none; }
+  .c0, .c1, .c2 { transform: translateX(440px); }
+}
+  </style>
+
+  <clipPath id="win"><rect x="0.5" y="0.5" width="639" height="149" rx="10"/></clipPath>
+
+  <g clip-path="url(#win)">
+    <rect width="640" height="150" fill="#F7F8FA"/>
+    <rect width="640" height="38" fill="#ECEFF3"/>
+    <rect y="38" width="640" height="1" fill="#D8DDE3"/>
+    <circle cx="24" cy="19" r="5" fill="#FF5F57"/>
+    <circle cx="43" cy="19" r="5" fill="#FEBC2E"/>
+    <circle cx="62" cy="19" r="5" fill="#28C840"/>
+
+    <text x="26" y="100" class="p">$</text>
+    <g class="g0">
+      <text x="52" y="100" textLength="367.2" lengthAdjust="spacingAndGlyphs" class="t">frontend, and everything behind it</text>
+      <rect class="c0" x="52" y="78" width="440" height="30" fill="#F7F8FA"/>
+    </g>
+    <g class="g1">
+      <text x="52" y="100" textLength="291.6" lengthAdjust="spacingAndGlyphs" class="t">AI in the toolkit every day</text>
+      <rect class="c1" x="52" y="78" width="440" height="30" fill="#F7F8FA"/>
+    </g>
+    <g class="g2">
+      <text x="52" y="100" textLength="367.2" lengthAdjust="spacingAndGlyphs" class="t">happy to be the newest in the room</text>
+      <rect class="c2" x="52" y="78" width="440" height="30" fill="#F7F8FA"/>
+    </g>
+    <rect class="cur" x="52" y="82" width="9" height="23" fill="#B0451B"/>
+  </g>
+
+  <rect x="0.5" y="0.5" width="639" height="149" rx="10" fill="none" stroke="#D8DDE3"/>
+</svg>
