@@ -17,7 +17,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atj393/atj393/main/assets/hero-narrow-dark.svg">
   <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/atj393/atj393/main/assets/hero-narrow-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atj393/atj393/main/assets/hero-dark.svg">
-  <img alt="Alexis Johnson. I build what I wish existed, then finish it for everyone. That's the bar." src="https://raw.githubusercontent.com/atj393/atj393/main/assets/hero-light.svg" width="100%">
+  <img alt="Alexis Johnson. I build what I wish existed, and ship it with care. That's the bar." src="https://raw.githubusercontent.com/atj393/atj393/main/assets/hero-light.svg" width="100%">
 </picture>
 
 <picture>
@@ -55,7 +55,7 @@ Almost everything here started the same way: something got in my way on an ordin
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/atj393/promt-save-reuse-chatgpt-and-gemini">Prompt Save Reuse</a></b><br>
-      <sub>Reusable prompts across the popular AI chats. MIT, and shaped by strangers' pull requests.</sub><br>
+      <sub>Reusable prompts across the popular AI chats. MIT, and shaped by community pull requests.</sub><br>
       <sub><a href="https://chromewebstore.google.com/detail/prompt-save-reuse-chatgpt/fldaklkfolpnnlgoejcgcgjmklmheaim">Chrome Web Store</a> · <a href="https://github.com/atj393/promt-save-reuse-chatgpt-and-gemini">Source</a></sub>
     </td>
     <td width="50%" valign="top">

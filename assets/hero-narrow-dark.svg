@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 400" width="520" height="400" role="img" aria-labelledby="heroNarrowTitle">
-  <title id="heroNarrowTitle">Alexis Johnson. I build what I wish existed, then finish it for everyone. That's the bar.</title>
+  <title id="heroNarrowTitle">Alexis Johnson. I build what I wish existed, and ship it with care. That's the bar.</title>
 
   <text x="40" y="40" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" letter-spacing="2.2" fill="#8B95A4">FRONTEND · FULL-STACK · APPLIED AI</text>
 
@@ -7,8 +7,8 @@
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif" font-size="42" font-weight="600" letter-spacing="-0.9" fill="#E8EDF3">
     <text x="40" y="110">I build what I wish</text>
-    <text x="40" y="158">existed, then finish</text>
-    <text x="40" y="206">it for everyone.</text>
+    <text x="40" y="158">existed, and ship</text>
+    <text x="40" y="206">it with care.</text>
     <text x="40" y="254">That's the bar.</text>
   </g>
 
