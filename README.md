@@ -17,7 +17,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atj393/atj393/main/assets/hero-narrow-dark.svg">
   <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/atj393/atj393/main/assets/hero-narrow-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atj393/atj393/main/assets/hero-dark.svg">
-  <img alt="Alexis Johnson. Interfaces that feel obvious. Systems that hold up. AI that asks first." src="https://raw.githubusercontent.com/atj393/atj393/main/assets/hero-light.svg" width="100%">
+  <img alt="Alexis Johnson. I build what I wish existed, then finish it for everyone. That's the bar." src="https://raw.githubusercontent.com/atj393/atj393/main/assets/hero-light.svg" width="100%">
 </picture>
 
 <picture>
