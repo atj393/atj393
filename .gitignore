@@ -1,0 +1,9 @@
+# This is a public profile repository — everything here is world-readable.
+# Documents are ignored by default so a stray `git add .` cannot publish one.
+# To publish a document deliberately: git add -f <file>
+*.pdf
+*.docx
+*.pptx
+*.xlsx
+*.key
+*.env
