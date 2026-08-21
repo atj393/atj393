@@ -71,7 +71,7 @@ Almost everything here started the same way: something got in my way on an ordin
   </tr>
 </table>
 
-<sub><b>ENGINEERING LAB</b> · <a href="https://github.com/atj393/design-intelligence">design-intelligence</a>, a derived design-guidance layer synthesized from 74 brand analyses. &nbsp; <b>TOOLING</b> · my code-cleanup workflow as a <a href="https://github.com/atj393/claude-plugin-code-cleanup">Claude Code plugin</a> — a lead agent coordinating seven specialist workers — and its <a href="https://github.com/atj393/claude-plugins">marketplace</a>. &nbsp; <b>COMMUNITY</b> · <a href="https://chromewebstore.google.com/detail/prompt-save-reuse-chatgpt/fldaklkfolpnnlgoejcgcgjmklmheaim">Prompt Save Reuse</a>, MIT and shaped by outside pull requests.</sub>
+<sub><b>ENGINEERING LAB</b> · <a href="https://github.com/atj393/design-intelligence">design-intelligence</a>, a derived design-guidance layer synthesized from 74 brand analyses. &nbsp; <b>TOOLING</b> · my code-cleanup workflow as a <a href="https://github.com/atj393/claude-plugin-code-cleanup">Claude Code plugin</a> — a lead agent coordinating seven specialist workers — and its <a href="https://github.com/atj393/claude-plugins">marketplace</a>. &nbsp; <b>COMMUNITY</b> · <a href="https://chromewebstore.google.com/detail/prompt-save-reuse-chatgpt/fldaklkfolpnnlgoejcgcgjmklmheaim">Prompt Save Reuse</a>, on the Chrome Web Store and shaped by outside pull requests.</sub>
 
 <sub><b>02 · THE STACK</b></sub>
 
