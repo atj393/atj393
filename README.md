@@ -53,25 +53,25 @@ Almost everything here started the same way: something got in my way on an ordin
     </td>
     <td width="50%" valign="top">
       <b><a href="https://github.com/atj393/local-browser-automation-bridge">Local Browser Automation Bridge</a></b> &nbsp;<sub>LOCAL PROTOTYPE</sub><br>
-      <sub>Four processes that cannot share memory — dashboard, Node backend, MV3 service worker, content scripts — held together by typed contracts, a SQLite queue, and a request registry that gives a WebSocket the request/response semantics it does not have.</sub><br>
+      <sub>Four processes that cannot share memory (dashboard, Node backend, MV3 service worker, content scripts) held together by typed contracts, a SQLite queue, and a request registry that gives a WebSocket the request/response semantics it does not have.</sub><br>
       <sub><code>TypeScript</code> <code>Node</code> <code>WebSocket</code> <code>SQLite</code> &nbsp;·&nbsp; <a href="https://github.com/atj393/local-browser-automation-bridge">Source</a></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b><a href="https://github.com/atj393/re-phraser">Re-Phraser</a></b> &nbsp;<sub>CHROME WEB STORE</sub><br>
-      <sub>Your selection goes to the AI tab you already have open. No backend, no API-key box — their subscription, their account, nothing in the middle.</sub><br>
+      <sub>Your selection goes to the AI tab you already have open. No backend, no API-key box: their subscription, their account, nothing in the middle.</sub><br>
       <sub><a href="https://chromewebstore.google.com/detail/re-phraser-ai-text-rewrit/ldocllepggdbadbedboopoeebadnpddi">Chrome Web Store</a> · <a href="https://github.com/atj393/re-phraser">Source</a></sub>
     </td>
     <td width="50%" valign="top">
       <b><a href="https://play.google.com/store/apps/details?id=com.psalmswayapp">Psalms Way</a></b> &nbsp;<sub>GOOGLE PLAY</sub><br>
-      <sub>81 translations and 47 interface languages, entirely offline — which is why the bundler needs a static module map instead of a computed path.</sub><br>
+      <sub>81 translations and 47 interface languages, entirely offline, which is why the bundler needs a static module map instead of a computed path.</sub><br>
       <sub><a href="https://play.google.com/store/apps/details?id=com.psalmswayapp">Google Play</a> · <a href="https://github.com/atj393/psalms-way-app">Source</a> · <a href="https://chromewebstore.google.com/detail/psalms-way-biblical-begin/aplafmlmecdjlmcgbibmlbjnilcomcnl">Extension</a></sub>
     </td>
   </tr>
 </table>
 
-<sub><b>ENGINEERING LAB</b> · <a href="https://github.com/atj393/design-intelligence">design-intelligence</a>, a derived design-guidance layer synthesized from 74 brand analyses. &nbsp; <b>TOOLING</b> · my code-cleanup workflow as a <a href="https://github.com/atj393/claude-plugin-code-cleanup">Claude Code plugin</a> — a lead agent coordinating seven specialist workers — and its <a href="https://github.com/atj393/claude-plugins">marketplace</a>. &nbsp; <b>COMMUNITY</b> · <a href="https://chromewebstore.google.com/detail/prompt-save-reuse-chatgpt/fldaklkfolpnnlgoejcgcgjmklmheaim">Prompt Save Reuse</a>, on the Chrome Web Store and shaped by outside pull requests.</sub>
+<sub><b>ENGINEERING LAB</b> · <a href="https://github.com/atj393/design-intelligence">design-intelligence</a>, a derived design-guidance layer synthesized from 74 brand analyses. &nbsp; <b>TOOLING</b> · my code-cleanup workflow as a <a href="https://github.com/atj393/claude-plugin-code-cleanup">Claude Code plugin</a>, a lead agent coordinating seven specialist workers, and its <a href="https://github.com/atj393/claude-plugins">marketplace</a>. &nbsp; <b>COMMUNITY</b> · <a href="https://chromewebstore.google.com/detail/prompt-save-reuse-chatgpt/fldaklkfolpnnlgoejcgcgjmklmheaim">Prompt Save Reuse</a>, on the Chrome Web Store and shaped by outside pull requests.</sub>
 
 <sub><b>02 · THE STACK</b></sub>
 
