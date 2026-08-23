@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 344" width="1200" height="344" role="img" aria-labelledby="termTitle">
-  <title id="termTitle">An animated terminal session. whoami: alexis, frontend depth, full-stack reach, AI in the loop. ls shipped: automatist, easy-web-navigation, re-phraser, prompt-save-reuse, psalms-way. now: building Automatist, mobile-first AI automation that works offline.</title>
+  <title id="termTitle">An animated terminal session. whoami: alexis, senior frontend and software engineer, eleven years, Berlin. ls shipped: automatist, easy-web-navigation, re-phraser, prompt-save-reuse, psalms-way. now: building Automatist, mobile-first AI automation that works offline.</title>
   <style>
     .t { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 19px; fill: #E8EDF3; }
     .p { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 19px; font-weight: 600; fill: #F0906A; }
@@ -47,7 +47,7 @@
       <rect class="c1" x="66" y="75" width="90" height="28" fill="#11161D"/>
     </g>
     <g class="l a2">
-      <text x="66" y="130" class="o">alexis · frontend depth, full-stack reach, AI in the loop</text>
+      <text x="66" y="130" class="o">alexis · senior frontend / software engineer · 11 yrs · Berlin</text>
     </g>
     <g class="l a3">
       <text x="40" y="164" class="p">$</text>
