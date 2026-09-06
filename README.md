@@ -98,6 +98,6 @@ Almost everything here started the same way: something got in my way on an ordin
 
 Fixes sent upstream, like [repeat-visit caching](https://github.com/Octasol/octasol/pull/21) and [safer production logging](https://github.com/Octasol/octasol/pull/5) for Octasol · [Five-time LinkedIn Top Voice](https://www.linkedin.com/in/atj393/)
 
-<sub><b>CREDENTIALS</b> · <a href="https://www.credly.com/users/atj393">Meta Front-End and Back-End Developer · IBM Full Stack Software Developer</a></sub>
+<sub><b>CREDENTIALS</b> · <a href="https://www.credly.com/users/atj393">verified certificates from Meta, Google, and IBM</a>: Meta Front-End and Back-End Developer, IBM Full Stack Software Developer</sub>
 
 Based in Berlin, employed in Germany, no sponsorship required, and open to on-site, hybrid, or remote. If you're building around thoughtful interfaces, local-first software, or applied AI, [say hello](mailto:alexistoby393@gmail.com).
