@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 378" width="1200" height="378" role="img" aria-labelledby="termTitle">
-  <title id="termTitle">An animated terminal session. whoami: alexis, senior full-stack engineer, eleven years, Berlin. ls shipped: automatist, easy-web-navigation, re-phraser, prompt-save-reuse, psalms-way, urban-ground. now: at OPTIMAL SYSTEMS in Berlin, building an AI assistant over enterprise content; Automatist, on-device AI automation, live on Google Play.</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 412" width="1200" height="412" role="img" aria-labelledby="termTitle">
+  <title id="termTitle">An animated terminal session. whoami: alexis, senior full-stack engineer, twelve years, Berlin. ls shipped: automatist, easy-web-navigation, re-phraser, prompt-save-reuse, psalms-way, urban-ground. now: Streets and Signs, a browser driving game in public preview at streetsandsigns.com; at OPTIMAL SYSTEMS in Berlin, building an AI assistant over enterprise content; Automatist, on-device AI automation, live on Google Play.</title>
   <style>
     .t { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 19px; fill: #E8EDF3; }
     .p { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 19px; font-weight: 600; fill: #F0906A; }
@@ -15,7 +15,8 @@
     .a5 { animation: ap 0.01s linear 4.70s forwards; }
     .a6 { animation: ap 0.30s linear 5.60s forwards; }
     .a6b { animation: ap 0.30s linear 5.85s forwards; }
-    .a7 { animation: ap 0.01s linear 6.60s forwards; }
+    .a6c { animation: ap 0.30s linear 6.10s forwards; }
+    .a7 { animation: ap 0.01s linear 6.85s forwards; }
     @keyframes w1 { to { transform: translateX(91.2px); } }
     @keyframes w2 { to { transform: translateX(159.6px); } }
     @keyframes w3 { to { transform: translateX(57px); } }
@@ -31,10 +32,10 @@
     }
   </style>
 
-  <clipPath id="win"><rect x="0.5" y="0.5" width="1199" height="377" rx="12"/></clipPath>
+  <clipPath id="win"><rect x="0.5" y="0.5" width="1199" height="411" rx="12"/></clipPath>
 
   <g clip-path="url(#win)">
-    <rect width="1200" height="378" fill="#11161D"/>
+    <rect width="1200" height="412" fill="#11161D"/>
     <rect width="1200" height="44" fill="#1A212B"/>
     <rect y="44" width="1200" height="1" fill="#2A323C"/>
     <circle cx="28" cy="22" r="6" fill="#FF5F57"/>
@@ -48,7 +49,7 @@
       <rect class="c1" x="66" y="75" width="90" height="28" fill="#11161D"/>
     </g>
     <g class="l a2">
-      <text x="66" y="130" class="o">alexis · senior full-stack engineer · 11 yrs · berlin</text>
+      <text x="66" y="130" class="o">alexis · senior full-stack engineer · 12 yrs · berlin</text>
     </g>
     <g class="l a3">
       <text x="40" y="164" class="p">$</text>
@@ -64,16 +65,19 @@
       <rect class="c3" x="66" y="211" width="60" height="28" fill="#11161D"/>
     </g>
     <g class="l a6">
-      <text x="66" y="266" class="o"><tspan fill="#F0906A">▸</tspan> OPTIMAL SYSTEMS, Berlin: building an AI assistant over enterprise content</text>
+      <text x="66" y="266" class="o"><tspan fill="#F0906A">▸</tspan> Streets &amp; Signs: a browser driving game, public preview at streetsandsigns.com</text>
     </g>
     <g class="l a6b">
-      <text x="66" y="300" class="o"><tspan fill="#F0906A">▸</tspan> Automatist: on-device AI automation, live on Google Play</text>
+      <text x="66" y="300" class="o"><tspan fill="#F0906A">▸</tspan> OPTIMAL SYSTEMS, Berlin: building an AI assistant over enterprise content</text>
+    </g>
+    <g class="l a6c">
+      <text x="66" y="334" class="o"><tspan fill="#F0906A">▸</tspan> Automatist: on-device AI automation, live on Google Play</text>
     </g>
     <g class="l a7">
-      <text x="40" y="334" class="p">$</text>
-      <rect class="cur" x="66" y="315" width="10" height="24" fill="#F0906A"/>
+      <text x="40" y="368" class="p">$</text>
+      <rect class="cur" x="66" y="349" width="10" height="24" fill="#F0906A"/>
     </g>
   </g>
 
-  <rect x="0.5" y="0.5" width="1199" height="377" rx="12" fill="none" stroke="#D0D7DE"/>
+  <rect x="0.5" y="0.5" width="1199" height="411" rx="12" fill="none" stroke="#D0D7DE"/>
 </svg>

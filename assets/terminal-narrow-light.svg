@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 352" width="640" height="352" role="img" aria-labelledby="termNarrowTitle">
-  <title id="termNarrowTitle">An animated terminal session. whoami: alexis, senior full-stack engineer, eleven years, Berlin. ls shipped: automatist, easy-web-nav, re-phraser, prompt-save, psalms-way, urban-ground. now: AI assistant at OPTIMAL SYSTEMS, Berlin; Automatist, live on Google Play.</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 382" width="640" height="382" role="img" aria-labelledby="termNarrowTitle">
+  <title id="termNarrowTitle">An animated terminal session. whoami: alexis, senior full-stack engineer, twelve years, Berlin. ls shipped: automatist, easy-web-nav, re-phraser, prompt-save, psalms-way, urban-ground. now: Streets and Signs, a driving game at streetsandsigns.com; AI assistant at OPTIMAL SYSTEMS, Berlin; Automatist, live on Google Play.</title>
   <style>
     .t { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 17px; fill: #E8EDF3; }
     .p { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 17px; font-weight: 600; fill: #F0906A; }
@@ -16,7 +16,8 @@
     .a5 { animation: ap 0.01s linear 4.80s forwards; }
     .a6 { animation: ap 0.30s linear 5.70s forwards; }
     .a6b { animation: ap 0.30s linear 5.95s forwards; }
-    .a7 { animation: ap 0.01s linear 6.70s forwards; }
+    .a6c { animation: ap 0.30s linear 6.20s forwards; }
+    .a7 { animation: ap 0.01s linear 6.95s forwards; }
     @keyframes w1 { to { transform: translateX(81.6px); } }
     @keyframes w2 { to { transform: translateX(142.8px); } }
     @keyframes w3 { to { transform: translateX(51px); } }
@@ -32,10 +33,10 @@
     }
   </style>
 
-  <clipPath id="winN"><rect x="0.5" y="0.5" width="639" height="351" rx="10"/></clipPath>
+  <clipPath id="winN"><rect x="0.5" y="0.5" width="639" height="381" rx="10"/></clipPath>
 
   <g clip-path="url(#winN)">
-    <rect width="640" height="352" fill="#11161D"/>
+    <rect width="640" height="382" fill="#11161D"/>
     <rect width="640" height="38" fill="#1A212B"/>
     <rect y="38" width="640" height="1" fill="#2A323C"/>
     <circle cx="24" cy="19" r="5" fill="#FF5F57"/>
@@ -49,7 +50,7 @@
       <rect class="c1" x="46" y="59" width="80" height="26" fill="#11161D"/>
     </g>
     <g class="l a2">
-      <text x="46" y="108" class="o">alexis · senior full-stack · 11 yrs · berlin</text>
+      <text x="46" y="108" class="o">alexis · senior full-stack · 12 yrs · berlin</text>
     </g>
     <g class="l a3">
       <text x="24" y="138" class="p">$</text>
@@ -68,16 +69,19 @@
       <rect class="c3" x="46" y="209" width="55" height="26" fill="#11161D"/>
     </g>
     <g class="l a6">
-      <text x="46" y="258" class="o"><tspan fill="#F0906A">▸</tspan> AI assistant at OPTIMAL SYSTEMS, Berlin</text>
+      <text x="46" y="258" class="o"><tspan fill="#F0906A">▸</tspan> Streets &amp; Signs: driving game, streetsandsigns.com</text>
     </g>
     <g class="l a6b">
-      <text x="46" y="288" class="o"><tspan fill="#F0906A">▸</tspan> Automatist, live on Google Play</text>
+      <text x="46" y="288" class="o"><tspan fill="#F0906A">▸</tspan> AI assistant at OPTIMAL SYSTEMS, Berlin</text>
+    </g>
+    <g class="l a6c">
+      <text x="46" y="318" class="o"><tspan fill="#F0906A">▸</tspan> Automatist, live on Google Play</text>
     </g>
     <g class="l a7">
-      <text x="24" y="318" class="p">$</text>
-      <rect class="cur" x="46" y="301" width="9" height="21" fill="#F0906A"/>
+      <text x="24" y="348" class="p">$</text>
+      <rect class="cur" x="46" y="331" width="9" height="21" fill="#F0906A"/>
     </g>
   </g>
 
-  <rect x="0.5" y="0.5" width="639" height="351" rx="10" fill="none" stroke="#D0D7DE"/>
+  <rect x="0.5" y="0.5" width="639" height="381" rx="10" fill="none" stroke="#D0D7DE"/>
 </svg>
