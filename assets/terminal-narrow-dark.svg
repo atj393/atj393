@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 382" width="640" height="382" role="img" aria-labelledby="termNarrowTitle">
-  <title id="termNarrowTitle">An animated terminal session. whoami: alexis, senior full-stack engineer, twelve years, Berlin. ls shipped: automatist, easy-web-nav, re-phraser, prompt-save, psalms-way, urban-ground. now: Streets and Signs, a driving game at streetsandsigns.com; AI assistant at OPTIMAL SYSTEMS, Berlin; Automatist, live on Google Play.</title>
+  <title id="termNarrowTitle">An animated terminal session. whoami: alexis, senior full-stack engineer, twelve years, Berlin. ls shipped: automatist, easy-web-nav, re-phraser, prompt-save, psalms-way, urban-ground. now: Streets and Signs, a driving game at streetsandsigns.com; day job, an enterprise AI assistant; Automatist, live on Google Play.</title>
   <style>
     .t { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 17px; fill: #E8EDF3; }
     .p { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: 17px; font-weight: 600; fill: #F0906A; }
@@ -72,7 +72,7 @@
       <text x="46" y="258" class="o"><tspan fill="#F0906A">▸</tspan> Streets &amp; Signs: driving game, streetsandsigns.com</text>
     </g>
     <g class="l a6b">
-      <text x="46" y="288" class="o"><tspan fill="#F0906A">▸</tspan> AI assistant at OPTIMAL SYSTEMS, Berlin</text>
+      <text x="46" y="288" class="o"><tspan fill="#F0906A">▸</tspan> day job: an enterprise AI assistant</text>
     </g>
     <g class="l a6c">
       <text x="46" y="318" class="o"><tspan fill="#F0906A">▸</tspan> Automatist, live on Google Play</text>
