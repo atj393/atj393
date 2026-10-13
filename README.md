@@ -30,10 +30,7 @@ What I'm good at is noticing the real problem, understanding the people and cons
 
 <sub><b>01 · NOW BUILDING</b></sub>
 
-<a href="https://streetsandsigns.com/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atj393/atj393/main/assets/streets-and-signs-horizontal-dark.svg">
-  <img alt="Streets &amp; Signs. Every street. A new choice." src="https://raw.githubusercontent.com/atj393/atj393/main/assets/streets-and-signs-horizontal-light.svg" width="360">
-</picture></a>
+<a href="https://streetsandsigns.com/"><img src="https://raw.githubusercontent.com/atj393/atj393/main/assets/streets-and-signs-icon.png" width="72" height="72" alt="Streets &amp; Signs icon"></a>
 
 **[Streets & Signs](https://streetsandsigns.com/)** turns a laptop into the driver's view and a phone into the wheel. Scan a QR code, tilt to steer, and drive a fictional German neighbourhood built around selected German traffic rules, with a round summary after every drive and a new variation when you retry.
 
